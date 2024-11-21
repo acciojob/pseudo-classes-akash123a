@@ -10,11 +10,13 @@
 .red{
 	color:red;
 }
-
-ul        {
-	width: 50%;'\'
-}
-li {
+   ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 20px 0;
+            width: 50%;
+        }
+        li {
             padding: 10px;
             background-color: gray;
             width: 100%;
